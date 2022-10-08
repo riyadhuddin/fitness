@@ -16,7 +16,8 @@ dependencies:
   line_icons:
   flutter_icons:
   fl_chart:
-  flutter_svg: ^0.22.0 
+  flutter_svg: ^0.22.0
+  huawei_health: ^6.3.0+302
 
 dev_dependencies:
   flutter_test:
